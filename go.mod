@@ -1,4 +1,4 @@
-module joshasbury.bos-hugoplate-main-tw4
+module github.com/joshasbury/bos-hugoplate-main-tw4
 
 go 1.21
 
